@@ -1,0 +1,17 @@
+{
+  "name": "dentaku_server",
+  "version": "0.0.1",
+  "description": "dentaku application server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "dentaku"
+  ],
+  "author": "Akimichi Tatsukawa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.14.0"
+  }
+}
